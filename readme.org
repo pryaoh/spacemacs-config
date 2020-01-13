@@ -1,0 +1,16 @@
+#+TITLE: pryaho's spacemacs config
+#+AUTHOR:  Younan Oh <pryaoh>
+#+email: 
+#+DESCRIPTION: A literate programming style exposition of my Spaceemacs configuration
+#+LANGUAGE: en
+#+STARTUP: overview indent align
+#+BABEL: :cache yes
+#+OPTIONS: ^:nil
+#+PROPERTY: header-args :comments link
+
+# badge
+[![License: MIT][https://img.shields.io/badge/License-MIT-yellow.svg]]
+
+* 소개
+
+
